@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/mattisfrommars/lesson-01-cat-clicker/issues"
   },
-  "homepage": "https://github.com/mattisfrommars/lesson-01-cat-clicker#readme"
+  "homepage": "https://github.com/mattisfrommars/lesson-01-cat-clicker#readme",
+  "devDependencies": {
+    "babel-cli": "6.9.0"
+  }
 }
